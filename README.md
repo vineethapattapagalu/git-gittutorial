@@ -1,2 +1,2 @@
 # git-gittutorial
-this for practise
+this is for practise
